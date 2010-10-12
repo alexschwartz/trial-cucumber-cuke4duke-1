@@ -10,7 +10,7 @@ This code is based on an example from Cuke4Duke.
 
 h2. License
 
-"MIT":http://github.com/alexschwartz/trial-cucumber-cuke4duke-1/blob/master/LICENCE
+"MIT":http://github.com/alexschwartz/trial-cucumber-cuke4duke-1/blob/master/LICENSE
 
 h2. Building
 
