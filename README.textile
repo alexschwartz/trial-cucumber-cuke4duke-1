@@ -2,8 +2,15 @@ h1. Cuke4Duke Trial Project
 
 This is a trial project using Cucumber with Java, using the "Cuke4Duke":http://github.com/aslakhellesoy/cuke4duke project.
 
-For more background, please take a look at "Cuke4Duke":http://github.com/aslakhellesoy/cuke4duke project or the cool Cucumber book by David and Gojko: "Cucumber4Ninjas":http://www.cuke4ninja.com/ .
+For more background, please take a look at "Cuke4Duke":http://github.com/aslakhellesoy/cuke4duke project or the cool Cucumber book by David and Gojko: "The Secret Ninja Cucumber Scrolls":http://www.cuke4ninja.com/ .
 
+h2. History
+
+This code is based on an example from Cuke4Duke.
+
+h2. License
+
+"MIT":http://github.com/alexschwartz/trial-cucumber-cuke4duke-1/blob/master/LICENCE
 
 h2. Building
 
