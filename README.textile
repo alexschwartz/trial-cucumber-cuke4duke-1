@@ -1,0 +1,22 @@
+h1. Cuke4Duke Trial Project
+
+This is a trial project using Cucumber with Java, using the "Cuke4Duke":http://github.com/aslakhellesoy/cuke4duke project.
+
+For more background, please take a look at "Cuke4Duke":http://github.com/aslakhellesoy/cuke4duke project or the cool Cucumber book by David and Gojko: "Cucumber4Ninjas":http://www.cuke4ninja.com/ .
+
+
+h2. Building
+
+First of all, you need "Maven":http://maven.apache.org/ installed.
+Then you'll need "git":http://git-scm.com/
+
+You can execute the Maven build as follows:
+<pre>mvn integration-test</pre>
+
+h3. Initial Build
+
+The first time you run Cucumber with Maven, you will have to specify one additional arguments so that JRuby downloads and installs the required gems. Run Maven as:
+<pre>mvn integration-test -Dcucumber.installGems=true</pre>
+You only need to do this once on any particular system.
+
+
